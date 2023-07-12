@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":"AAAA,OAAO,CAAC,GAAG,CAAC,aAAa,CAAC;AAE1B;AACA","file":"01. Maps.77de5100.js","sourceRoot":"..","sourcesContent":["console.log(\"Hello World\");\n\n// https://fakerjs.dev/\n// npm install @faker-js/faker --save-dev\n"]}
