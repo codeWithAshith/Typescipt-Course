@@ -1,0 +1,6 @@
+npm install -g typescript
+
+// to run in cmd
+npm install -g ts-node
+
+npx ts-node <file_name>
